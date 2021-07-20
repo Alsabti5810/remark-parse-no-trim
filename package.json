@@ -1,5 +1,5 @@
 {
-  "name": "remark-parse",
+  "name": "remark-parse-no-trim",
   "version": "8.0.4",
   "description": "remark plugin to parse Markdown",
   "license": "MIT",
@@ -17,9 +17,7 @@
     "parse"
   ],
   "types": "types/index.d.ts",
-  "homepage": "https://remark.js.org",
-  "repository": "https://github.com/remarkjs/remark/tree/main/packages/remark-parse",
-  "bugs": "https://github.com/remarkjs/remark/issues",
+  "repository": "https://github.com/docs/remark-parse-no-trim",
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/unified"
